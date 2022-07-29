@@ -1,0 +1,10 @@
+nav{
+    height: 40px;
+    border-bottom:1px solid #000000;  ; 
+}
+
+.div-header{
+    margin:  auto;
+    align-items: center;
+    text-align: center;
+}
